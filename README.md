@@ -1,5 +1,7 @@
 # SecondCapstoneProject
 
+Link Tableau Dashboard: https://public.tableau.com/app/profile/sultan.sulaiman.said/viz/AirbnbListingsBangkok_17697909269710/Dashboard1?publish=yes
+
 ## Latar Belakang
 
 Dalam project ini, data booking Airbnb, yaitu aplikasi yang digunakan untuk melakukan booking akomodasi sementara, akan di analisa. Dataset yang digunakan adalah data listing Airbnb di kota Bangkok. Dokumen analisa ini ditulis dalam Bahasa Inggris.
